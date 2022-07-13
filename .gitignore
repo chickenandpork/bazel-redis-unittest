@@ -1,0 +1,5 @@
+# Bazel softlinks to source trees
+bazel-bazel-redis-unittest
+bazel-bin
+bazel-out
+bazel-testlogs
